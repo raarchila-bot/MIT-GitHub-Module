@@ -1,0 +1,7 @@
+Este es el primer archivo de prueba en repositorio de GitHub
+
+Listado de datos:
+* AAAA
+* BBBB
+* CCCC
+* DDDD
