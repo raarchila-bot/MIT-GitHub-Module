@@ -2,12 +2,16 @@ Este es el primer archivo de prueba en repositorio de GitHub
 
 Listado de datos:
 * AAAA
-* BBBB
+* BBLL
 * CCCC
 * DDDD
+-------- Esta es una modificación realizada en una rama diferentes de la principal
+* XXXX
+* YYYY
+* ZZZZ
 
 -------- Esta es una colaboración de raarchila-dotcom para el proyecto MIT-GitHub-Module
 * EEEE
-* FFFF
+* FFMM
 * GGGG
 * HHHH
